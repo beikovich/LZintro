@@ -1,0 +1,81 @@
+ /* Intro start */
+
+ .intro {
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+
+ }
+
+
+.intro .container {
+    width: 68.3740321620vw;
+    margin: 0 auto;
+    height: 31.030vw;
+}
+
+
+
+
+.intro__content img {
+    /* Group */
+    position: absolute;
+    left: 6.6706372841vw;
+    margin: 0 auto;
+    width: 71vw;
+
+}
+
+
+
+
+.intro__block img {
+    position: absolute;
+    width: 5.0029779631vw;
+    left: 79.8689696248vw;
+    top: 10.2441929720vw;
+    opacity: 1;
+}
+
+
+.intro__title {
+    /* LayerZero portal */
+    position: absolute;
+    max-width: 64.8004764741vw;
+    height: 8.0405002978vw;
+    left: 17.5699821322vw;
+    top: 12.7456819535vw;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 6.8493150685vw;
+    line-height: 8.0405002978vw;
+    /* identical to box height */
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0 auto;
+    white-space: nowrap;
+
+}
+
+.intro__title_2 {
+    /* Your gateway into the LayerZero ecosystem */
+    position: absolute;
+    max-width: 35.1995235259vw;
+    height: 1.9058963669vw;
+    left: 39.4vw;
+    top: 21.5008933889vw;
+    font-family: 'Roboto Mono', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.4294222752vw;
+    line-height: 1.9058963669vw;
+    /* identical to box height */
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+/* Intro end */
